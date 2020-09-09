@@ -7,3 +7,10 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h2 {
+  margin: 0 0 1.5rem;
+
+  font-size: 2rem;
+  text-align: center;
+}
